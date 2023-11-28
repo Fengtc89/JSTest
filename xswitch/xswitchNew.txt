@@ -1,0 +1,16 @@
+{
+    "proxy": [
+        [
+            "https://assets.geilicdn.com/v-components/peckerwood/1.6.4/index.js",
+            "https://fastly.jsdelivr.net/gh/Fengtc89/JSTest@ecddf1c2a140b8f709aff813799c9b6f0f881834/JS/item1/o-001.js"
+        ],
+        [
+            "https://s.geilicdn.com/node/order-Server-Mixed/order-list/index.7a1a19c2d3a96d0c6224.js",
+            "https://fastly.jsdelivr.net/gh/Fengtc89/JSTest@ecddf1c2a140b8f709aff813799c9b6f0f881834/JS/item2/index.20231008.js"
+        ],
+        [
+            "https://admin.pandabuy.com/static/js/app.0aa9b168.js",
+            "https://fastly.jsdelivr.net/gh/Fengtc89/JSTest@e106d21460220da9c82f30de3a6a0c4d1ac6ccdd/JS/item3/app.20231127.js"
+        ]
+    ]
+}
